@@ -25,7 +25,7 @@ If you don't have the data for this issue, you can visit this GitHub link and do
 https://github.com/Hayk-21/Word_Recognition_on_Raspberry_Pi <br>
 <img width="524" alt="Screenshot 2023-02-28 173232" src="https://user-images.githubusercontent.com/76138383/221869077-1ca59358-7b7a-4d42-836e-096111b286d0.png">
 <br>
-<b>Dataset:</b>https://drive.google.com/file/d/1Hqdolk7RXWh-nz3FdNWhGQ5GE0RD6Wwo/view?usp=share_link<br>
+<b>Dataset:</b> https://drive.google.com/file/d/1Hqdolk7RXWh-nz3FdNWhGQ5GE0RD6Wwo/view?usp=share_link<br>
 ## 3) Download all the libraries that the model needs. to work.
 All required libraries for raspberry pi are:<br>
 <b>
