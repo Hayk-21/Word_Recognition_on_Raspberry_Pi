@@ -6,6 +6,7 @@
 4) Connecting electrical equipment to the raspberry pi.<br>
 5) Run the entire program that includes the voice recognition model.<br>
 </b>
+
 After doing all these steps you will get a similar result: <br>
 Full demo: https://www.youtube.com/watch?v=gTyCxoqM1_Y <br>
 
