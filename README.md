@@ -9,6 +9,10 @@
 After doing all these steps you will get a similar result: <br>
 Full demo: https://www.youtube.com/watch?v=gTyCxoqM1_Y <br>
 
+
+https://user-images.githubusercontent.com/76138383/221869740-8f3c6774-7bec-45ea-9226-e7a13beaf514.mp4
+
+
 ## 1) Download OS on Raspberry pi and make all settings.
 In addition to the raspberry pi, we also need a microchip above 8GB from which we will download our operating system.<br>
 This video shows the process in detail.<br>
